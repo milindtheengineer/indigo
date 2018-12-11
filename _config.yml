@@ -8,7 +8,7 @@ description: My personal blog related to tech and stuff I work on.
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/milind.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
